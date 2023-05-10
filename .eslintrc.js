@@ -13,6 +13,7 @@ module.exports = {
   },
   plugins: ['react'],
   rules: {
+    indent: 0,
     'implicit-arrow-linebreak': 0,
     'max-len': 0,
     'no-param-reassign': 0,
